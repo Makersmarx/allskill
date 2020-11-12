@@ -16,7 +16,7 @@ module.exports = {
     {
       icon: 'fa-facebook-f',
       name: 'Facebook',
-      url: 'https://facebook.com/theanubhav',
+      url: 'https://facebook.com',
     },
     {
       icon: 'far fa-map',
